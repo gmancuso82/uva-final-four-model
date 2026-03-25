@@ -28,7 +28,7 @@ I created a weighted scoring system to estimate matchup win probabilities.
 * Sweet 16 vs TCU: ~19.7%
 * Elite 8 vs South Carolina: ~13.9%
 * Elite 8 vs Oklahoma: ~14.1%
-* Final Four probability: ~2.8%
+* Final Four probability: **~2.8%**
 
 ## 💡 Key Insight
 
@@ -42,4 +42,4 @@ While UVA has competitive metrics, the compounded difficulty of sequential match
 ---
 
 *Built as part of my MSDS journey at UVA*
-# uva-final-four-model
+
